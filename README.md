@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarcrj
-- 👀 I’m interested in research
-- 🌱 I’m currently learning Cyber Physical Systems
-- 💞️ I’m looking to collaborate on android app development
+- 👀 I’m Masters of Technology in Computer Science (CPS)
+- 🌱 I’m currently doing my Ph.D. (CSE)
+- 💞️ I’m looking to collaborate on B5G
 - 📫 Reach me at me@amarsinha.in
 
 <!---
