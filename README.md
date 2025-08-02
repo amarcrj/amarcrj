@@ -2,8 +2,7 @@
 
 🎓 **Education**  
 - M.Tech in Computer Science (Cyber-Physical Systems)  
-- Currently pursuing a **Ph.D. in Computer Science & Engineering** at IIIT Naya Raipur  
-  *(Focused on intelligent solutions for mobility, handover management, and QoS in dynamic network environments)*
+- Currently pursuing a **Ph.D. in Computer Science & Engineering** at IIIT Naya Raipur
 
 🔬 **Research Interests**  
 - Beyond 5G (B5G) and 6G Networks  
@@ -20,12 +19,6 @@
 - ✉️ Email: [me@amarsinha.in](mailto:me@amarsinha.in)  
 - 🌐 Website: [amarsinha.in](https://www.amarsinha.in)  
 - 🔗 LinkedIn: [linkedin.com/in/amarcrj](https://www.linkedin.com/in/amarcrj)
-
-📁 **Featured Repositories**  
-> *Explore my recent projects and contributions related to:*
-- Mobility-aware resource prediction  
-- Lightweight ML models for QoS enhancement  
-- Intelligent handover in SDN-enabled networks  
 
 ---
 
