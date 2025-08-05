@@ -17,7 +17,7 @@
 
 📬 **Reach Me**  
 - ✉️ Email: [me@amarsinha.in](mailto:me@amarsinha.in)  
-- 🌐 Website: [amarsinha.in](https://www.amarsinha.in)  
+- 🌐 Website: [www.amarsinha.in](https://www.amarsinha.in)  
 - 🔗 LinkedIn: [linkedin.com/in/amarcrj](https://www.linkedin.com/in/amarcrj)
 
 ---
