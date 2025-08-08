@@ -2,7 +2,7 @@
 
 🎓 **Education**
 - Currently pursuing a **Ph.D. in Computer Science & Engineering** at IIIT Naya Raipur
-- M.Tech in Computer Science (Cyber-Physical Systems)
+- M.Tech in Computer Science (Cyber-Physical Systems) from Central University of Rajasthan
 
 🔬 **Research Interests**
 - Beyond 5G (B5G) and 6G Networks
